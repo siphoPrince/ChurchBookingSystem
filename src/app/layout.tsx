@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
-import FormComponent from "./Components/form"; // Correct the import here
+import FormComponent from "./Components/form";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
